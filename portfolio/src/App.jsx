@@ -67,14 +67,14 @@ const App = () => {
         title: "Interactive visualisation of french educational inequalities",
         description: "This project focuses on designing an interactive web dashboard to explore social inequalities in French schools via the social position index of institutions. Key features include: Exploration, processing, and visualization of real data from public CSV files (MENJ). Creation of a dynamic dashboard with multi-indicator visualizations. Interactive visualizations (bar charts, heatmaps, maps) created with Plotly.js. Full front-end development using HTML, CSS, JavaScript, and Bootstrap. Integration of an indicator selection engine and filters (by city, department, sector).",
         technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "Plotly.js"],
-        image: "public/images/dash.webp", // Specific image for dashboard
+        image: "images/dash.webp", // Specific image for dashboard
         headerColor: "bg-blue-700" // Example color for header
       },
       {
         title: "Zombicide Game",
         description: "This Java project involves modeling and developing a defense game against zombie attacks. Inspired by the game Zombicide, it features simplified mechanics to offer a unique experience: Dynamic construction of a city made up of streets and buildings. Separate game phases for survivors and zombies, each with specific rules. Various actions for survivors, such as attacking, searching, or using equipment. Different types of zombies with unique characteristics and behaviors. The project is designed to be extensible, allowing easy addition of new features.",
         technologies: ["Java", "Lucidchart", "OOP", "UML", "Algorithms"],
-        image: "/public/images/zmbicon.png", // Specific image for zombie game
+        image: "images/zmbicon.png", // Specific image for zombie game
         headerColor: "bg-red-700" // Example color for header
       },
       {
@@ -82,7 +82,7 @@ const App = () => {
         description: "This comprehensive data analysis project focuses on Atlético Madrid players. It involves a multi-faceted approach to understanding player performance and team strategy: Collection, cleaning, and analysis of player statistics, performance metrics, and tactical data. Development of an interactive dashboard for presenting key insights. Utilization of various visualization techniques to highlight trends, player strengths, and areas for improvement. This project demonstrates strong skills in data processing, statistical analysis, and dashboard creation.",
         technologies: ["Python", "Pandas", "Matplotlib", "Seaborn", "Jupyter Notebook", "Tableau", "Power BI"
         ],
-        image: "public/images/ftban.jpg", // Specific image for football analytics
+        image: "images/ftban.jpg", // Specific image for football analytics
         headerColor: "bg-indigo-700" // Example color for header
       }
     ]
